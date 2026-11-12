@@ -1,0 +1,13 @@
+{
+  "name": "prompt-master",
+  "description": "Prompt Master: rewrites a rough prompt into a sharper one before you send it.",
+  "owner": {
+    "name": "myth0s23"
+  },
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./"
+    }
+  ]
+}

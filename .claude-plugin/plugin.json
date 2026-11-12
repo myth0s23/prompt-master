@@ -1,0 +1,8 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Rewrites a rough prompt into a sharper one before you send it: a button above the prompt, or /pm.",
+  "author": { "name": "myth0s23" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
